@@ -1,0 +1,8 @@
+
+it-events-backend/node_modules
+it-events-frontend/node_modules
+
+it-events-backend/public/uploads
+it-events-backend/.env
+
+it-events-frontend/public/images
